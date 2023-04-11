@@ -4,3 +4,6 @@ food = "Pizza"
 days_in_week = 7
 one_dozen = 12
 smiles_per_mile = 99
+pie = 3.14
+one_half = .5
+number_of_giggawatts = 1.21
