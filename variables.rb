@@ -10,3 +10,8 @@ number_of_giggawatts = 1.21
 is_sunny_today = true
 pizza_is_bad = false
 music_is_great = true
+# variable reassignments
+one_dozen = 24
+food = "Burger"
+name = "Neo"
+is_sunny_today = false
