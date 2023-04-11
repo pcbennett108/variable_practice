@@ -7,3 +7,6 @@ smiles_per_mile = 99
 pie = 3.14
 one_half = .5
 number_of_giggawatts = 1.21
+is_sunny_today = true
+pizza_is_bad = false
+music_is_great = true
